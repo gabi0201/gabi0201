@@ -1,11 +1,12 @@
+# Hello World! 👊🌎
+
 ![](https://komarev.com/ghpvc/?username=gabi020101&color=006bed)
 
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na Uninter.
-- 💼 Estagiando como Quality Analyst (QA) na Compass Uol.
-- 🌱 Aprendendo mais sobre Java, testes de API com RestAssured.
+- 💼 Quality Analyst (QA) na Compass Uol.
 
 ## Minhas Skills
 
