@@ -16,16 +16,16 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?logo=SoapUI&logoColor=white&style=for-the-badge)
-![JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=Apache%20JMeter&logoColor=white&style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=JUnit5&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=flat&logo=soapui&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
   
 ## 📊 GitHub Stats
 
