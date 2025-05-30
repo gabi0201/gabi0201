@@ -4,12 +4,12 @@
 
 ## 👩‍💻 About Me
 
-🎓 Graduated in **Systems Analysis and Development**
-📚 Starting a postgraduate program in **Quality Engineering**
-🧪 Passionate about **Quality Assurance** and **Front-End development**
-🌱 Currently learning **Cypress**, **JUnit**, **CSS**, and **JavaScript**
-🎮 QA freelancer for the indie game **Portais de Crono**
-💬 I also enjoy helping social projects like [ONG Catland](https://catland.org.br/)
+- 🎓 Graduated in **Systems Analysis and Development**
+- 📚 Starting a postgraduate program in **Quality Engineering**
+- 🧪 Passionate about **Quality Assurance** and **Front-End development**
+- 🌱 Currently learning **Cypress**, **JUnit**, **CSS**, and **JavaScript**
+- 🎮 QA freelancer for the indie game **Portais de Crono**
+- 💬 I also enjoy helping social projects like [ONG Catland](https://www.instagram.com/catlandresgata/)
 
 ## 🛠️ Tech Stack & Tools
 
