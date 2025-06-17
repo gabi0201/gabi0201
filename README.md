@@ -5,9 +5,9 @@
 ## 👩‍💻 About Me
 
 - 🎓 Graduated in **Systems Analysis and Development**
-- 📚 Starting a postgraduate program in **Quality Engineering**
+- 📚 Currently pursuing a degree in **Internet Systems** 
 - 🧪 Passionate about **Quality Assurance** and **Front-End development**
-- 🌱 Currently learning **Cypress**, **JUnit**, **CSS**, and **JavaScript**
+- 🌱 Currently learning **Cypress**, **Robot Framework**, **CSS**, and **JavaScript**
 - 🎮 QA freelancer for the indie game **Portais de Crono**
 - 💬 I also enjoy helping social projects like [ONG Catland](https://catland.org.br/)
 
